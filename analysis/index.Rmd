@@ -8,4 +8,12 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+Welcome to my first workflowr website!
+
+Dataset contains the teeth length of 60 guinea pigs given 3 different doses of vitamin C either via orange juice (OC) or directly using ascorbic acid (VC)
+
+A permutation-based statistical test was used to compare the tooth length of the guinea pigs given each treatment. 
+
+Analysis involved a comparison of the observed difference in teeth length due to the treatment versus the observed difference calculated from random permutations of the data. This method identifies if the actual observed difference may be a true signal.
+
+* [Teeth growth analysis](teeth.html)
