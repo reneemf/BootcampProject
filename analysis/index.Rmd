@@ -17,3 +17,5 @@ A permutation-based statistical test was used to compare the tooth length of the
 Analysis involved a comparison of the observed difference in teeth length due to the treatment versus the observed difference calculated from random permutations of the data. This method identifies if the actual observed difference may be a true signal.
 
 * [Teeth growth analysis](teeth.html)
+
+Check out my teammate at https://zarionm.github.io/myproject/
