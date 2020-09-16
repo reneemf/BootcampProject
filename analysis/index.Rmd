@@ -18,4 +18,4 @@ Analysis involved a comparison of the observed difference in teeth length due to
 
 * [Teeth growth analysis](teeth.html)
 
-Check out my teammate at https://zarionm.github.io/myproject/
+Check out my teammate [Zarion](https://zarionm.github.io/myproject/)!
